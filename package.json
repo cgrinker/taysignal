@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "y-webrtc-signaling" 
+    "start": "PORT=80 y-webrtc-signaling" 
   },
   "keywords": [],
   "author": "",
